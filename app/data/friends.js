@@ -6,8 +6,8 @@
 
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "SpongeBob",
+    photo: "https://vignette.wikia.nocookie.net/spongebob/images/d/d7/SpongeBob_stock_art.png/revision/latest?cb=20190921125147",
     scores: [
       "5",
       "1",
@@ -22,8 +22,8 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    name: "Squidward",
+    photo: "https://vignette.wikia.nocookie.net/spongebob/images/0/05/Squidward_stock_art.png/revision/latest?cb=20190921125123",
     scores: [
       "4",
       "2",
@@ -38,8 +38,8 @@ var friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Plankton",
+    photo: "https://vignette.wikia.nocookie.net/spongebob/images/7/77/Plankton_stock_art.png/revision/latest?cb=20181202012432",
     scores: [
       "5",
       "2",
@@ -54,8 +54,8 @@ var friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Sandy Cheeks",
+    photo: "https://vignette.wikia.nocookie.net/spongebob/images/8/84/Sandy_stock_art.png/revision/latest?cb=20200407131514",
     scores: [
       "3",
       "3",
@@ -70,8 +70,8 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Patrick",
+    photo: "https://vignette.wikia.nocookie.net/spongebob/images/5/5d/Patrick_stock_art.png/revision/latest?cb=20181202012306",
     scores: [
       "4",
       "3",
@@ -86,8 +86,8 @@ var friends = [
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Gary",
+    photo: "https://vignette.wikia.nocookie.net/spongebob/images/9/9e/Gary_looking_up_stock_art.png/revision/latest?cb=20181227162221",
     scores: [
       "4",
       "4",
