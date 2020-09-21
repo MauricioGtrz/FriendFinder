@@ -10,6 +10,6 @@ app.get('/',function(req,res){
 res.send('Hello');
 })
 
-http.listen(process.env.PORT || 8888, function(){
-console.log('listening on *:8888');
+http.listen(process.env.PORT || 8080, function(){
+console.log('listening on *:8080');
 });
